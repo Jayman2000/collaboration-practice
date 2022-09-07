@@ -1,0 +1,5 @@
+1. What is a computer?
+
+2. What is code?
+
+3. What is a programming language?
